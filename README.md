@@ -1,4 +1,4 @@
-# span_be_assessment
+# League Rankings
 
 Python script to process sports matches from a text file and output ranked results.
 
